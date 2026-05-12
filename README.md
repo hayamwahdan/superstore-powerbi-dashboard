@@ -2,7 +2,8 @@
 
 A Power BI analytics dashboard built on the Superstore dataset, featuring interactive visuals, DAX measures, a date hierarchy, and Row-Level Security (RLS). Published to Power BI Service.
 
-Screenshot 2026-05-09 140005.png
+<img width="1314" height="725" alt="Screenshot 2026-05-09 140005" src="https://github.com/user-attachments/assets/1fc83d5d-8b85-4fea-aa8f-c4b82b4960eb" />
+
 ---
 
 ## Report Overview
